@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-color: #000;
     color: #fff;
-    overflow-x: hidden; /* Prevent horizontal scroll */
+    overflow-x: hidden;
     background-image: url('https://wallpapercrafter.com/desktop/129983-198x-1980s-pixel-art-Retro-style-Hi-Bit-Studios-video-game-art-video-games-city-building.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@ section {
     padding: 60px 20px;
 }
 
-.about, .projects, .skills, .contact {
+.about, .projects, .skills {
     background-color: rgba(26, 26, 26, 0.8);
     margin: 20px 0;
     padding: 20px;
